@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Chaithanya&fontSize=40&fontColor=ffffff)
-# Hi, I'm Chaithanya 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi, I'm Chaithanya&fontSize=40&fontColor=ffffff)
 
 🎓 2nd Year Computer Science Engineering Student at PES University, Bangalore
 
