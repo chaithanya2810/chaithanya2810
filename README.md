@@ -4,22 +4,22 @@
 
 💻 Interested in Software Development, Hands-on learining and Problem Solving.
 
-> 💡  Exploring new technologies and building practical projects
+ 💡  Exploring new technologies and building practical projects
 
 ---
-
+![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
 ## 🛠 Projects
 
-🔹 **Back2You**
+> 🔹 **Back2You**
 Full-stack **Lost & Found web application** built using the **MERN stack**, allowing users to report, upload images of, and manage lost or found items.
 
-🔹 **Road Maintenance Prioritizer**
+> 🔹 **Road Maintenance Prioritizer**
 Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
 
 🚧 More projects coming soon as I continue learning and building.
 
 ---
-
+![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
 ## 💻 Tech Stack
 
 
