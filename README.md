@@ -15,6 +15,7 @@ Full-stack **Lost & Found web application** built using the **MERN stack**, allo
 Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
 
 🚧 More projects coming soon as I continue learning and building.
+
 ---
 
 ## 💻 Tech Stack
