@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=HiI'mChaithanya&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi_I'm_Chaithanya&fontSize=40&fontColor=ffffff)
 
 🎓 2nd Year Computer Science Engineering Student at PES University, Bangalore
 
