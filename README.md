@@ -4,7 +4,7 @@
 
 💻 Interested in Software Development, Hands-on learining and Problem Solving.
 
-🌱 Exploring new technologies and building practical projects
+> 💡  Exploring new technologies and building practical projects
 
 ---
 
