@@ -3,6 +3,7 @@
 🎓 2nd Year Computer Science Engineering Student at PES University, Bangalore
 
 💻 Interested in Software Development, Hands-on learining and Problem Solving.
+
 🌱 Exploring new technologies and building practical projects
 
 ---
