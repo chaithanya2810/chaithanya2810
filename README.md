@@ -18,6 +18,9 @@ Implemented an **SDN-based traffic management system** using **Ryu SDN Framework
 > 🔹 **PES-VCS (Git-like Version Control System)**
 Implemented a simplified VCS featuring **SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection logic**, with full phase-wise system design and testing.
 
+> 🔹 **OS-Jackfruit: Custom Container Runtime**
+Built a lightweight **container runtime from scratch in Linux** using **namespaces, chroot isolation, and a custom supervisor engine**, supporting container lifecycle management, resource limits (soft/hard memory enforcement via kernel module), IPC-based CLI control, logging pipelines, and Linux CFS scheduling experiments with priority (nice) values.
+
 > 🔹 **Road Maintenance Prioritizer**  
 Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
 
