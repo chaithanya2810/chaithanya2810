@@ -8,13 +8,15 @@
 ---
 ![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
 ## 🛠 Projects
-## 🛠 Projects
 
 > 🔹 **Back2You**  
 Full-stack **Lost & Found web application** built using the **MERN stack**, enabling users to report, search, and manage lost or found items with image upload and authentication features.
 
 > 🔹 **SDN Broadcast Traffic Control System**  
 Implemented an **SDN-based traffic management system** using **Ryu SDN Framework, OpenFlow, Mininet, and Open vSwitch** to detect broadcast packets and optimize network traffic handling through selective forwarding rules.
+
+> 🔹 **PES-VCS (Git-like Version Control System)**
+Implemented a simplified VCS featuring **SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection logic**, with full phase-wise system design and testing.
 
 > 🔹 **Road Maintenance Prioritizer**  
 Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
@@ -32,6 +34,7 @@ Developed using **Arrays, Heaps, and Graphs** to rank road segments based on con
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-DSA-green)
+![Software Defined Networking](https://img.shields.io/badge/SDN-blue)
 
 ---
 
