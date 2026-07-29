@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%2C%20I'm%20Chaithanya&fontSize=40&fontColor=ffffff)
-🎓 2nd Year Computer Science Engineering Student at PES University, Bangalore
+🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore
 
 💻 Interested in Software Development, Hands-on learining and Problem Solving.
 
@@ -8,9 +8,6 @@
 ---
 ![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
 ## 🛠 Projects
-
-> 🔹 **Back2You**  
-Full-stack **Lost & Found web application** built using the **MERN stack**, enabling users to report, search, and manage lost or found items with image upload and authentication features.
 
 > 🔹 **SDN Broadcast Traffic Control System**  
 Implemented an **SDN-based traffic management system** using **Ryu SDN Framework, OpenFlow, Mininet, and Open vSwitch** to detect broadcast packets and optimize network traffic handling through selective forwarding rules.
@@ -24,6 +21,8 @@ Built a lightweight **container runtime from scratch in Linux** using **namespac
 > 🔹 **Road Maintenance Prioritizer**  
 Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
 
+> 🔹 **Back2You**  
+Full-stack **Lost & Found web application** built using the **MERN stack**, enabling users to report, search, and manage lost or found items with image upload and authentication features.
 
 ---
 ![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
@@ -36,7 +35,7 @@ Developed using **Arrays, Heaps, and Graphs** to rank road segments based on con
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-DSA-green)
+![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures-DSA-green)
 ![Software Defined Networking](https://img.shields.io/badge/SDN-blue)
 
 ---
