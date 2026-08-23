@@ -32,6 +32,3 @@ Full-stack MERN Lost & Found platform with image upload and authentication.
 
 ---
 
-## 📊 GitHub Stats
-
-![Chaithanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaithanya2810&show_icons=true&theme=default)
