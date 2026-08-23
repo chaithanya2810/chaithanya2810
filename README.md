@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%2C%20I'm%20Chaithanya&fontSize=40&fontColor=ffffff)
 🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore
 
-💻 Interested in Software Development, Hands-on learining and Problem Solving.
+💻 Interested in Software Development, Hands-on learning and Problem Solving.
 
  💡  Exploring new technologies and building practical projects
 
