@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20I'm%20Chaithanya&fontSize=40&fontColor=ffffff" />
 
-🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore
+🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore 
+
 💻 Interested in Systems Programming, Networking, and Problem Solving
 💡 Currently exploring SDN, OS internals, and building practical projects from scratch
 
