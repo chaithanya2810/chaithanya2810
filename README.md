@@ -2,7 +2,7 @@
 
 🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore 
 
-💻 Interested in solving real-world problems, software engineering, learning AIML concepts
+💻 Interested in solving real-world problems, software engineering, learning AIML concepts  
 💡 Currently exploring Machine Learning, DBMS, IoT, SDN, OS internals, and building practical projects from scratch
 
 ---
