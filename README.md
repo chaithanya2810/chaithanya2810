@@ -12,8 +12,8 @@
 🔹 **[SDN Broadcast Traffic Control System](https://github.com/chaithanya2810/SDN-Broadcast-Traffic-Control)**
 SDN-based traffic management using Ryu, OpenFlow 1.3, Mininet, and Open vSwitch — detects broadcast storms and installs selective forwarding rules, verified via Wireshark and flow-table analysis.
 
-🔹 **[SDN Broadcast Traffic Control System](https://github.com/chaithanya2810/SDN-Broadcast-Traffic-Control)**
-SDN-based traffic management using Ryu, OpenFlow 1.3, Mininet, and Open vSwitch — detects broadcast storms and installs selective forwarding rules, verified via Wireshark and flow-table analysis.
+🔹 **[Smart Energy Monitor with Environmental Safety Alerts](https://github.com/chaithanya2810/Smart-Energy-Monitor-Safety-Alerts.git)**
+An Arduino-based IoT system that monitors temperature, humidity, air quality, current draw, and motion in real time and automatically cuts power to a connected load when any safety threshold is crossed.
 
 🔹 **[PES-VCS (Git-like Version Control System)](https://github.com/chaithanya2810/PES1UG24CS124-pes-vcs)**
 A simplified VCS with SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection — built with full phase-wise design and testing.
