@@ -1,43 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%2C%20I'm%20Chaithanya&fontSize=40&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20I'm%20Chaithanya&fontSize=40&fontColor=ffffff" />
+
 🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore
-
-💻 Interested in Software Development, Hands-on learning and Problem Solving.
-
- 💡  Exploring new technologies and building practical projects
+💻 Interested in Systems Programming, Networking, and Problem Solving
+💡 Currently exploring SDN, OS internals, and building practical projects from scratch
 
 ---
-![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
+
 ## 🛠 Projects
 
-> 🔹 **SDN Broadcast Traffic Control System**  
-Implemented an **SDN-based traffic management system** using **Ryu SDN Framework, OpenFlow, Mininet, and Open vSwitch** to detect broadcast packets and optimize network traffic handling through selective forwarding rules.
+🔹 **[SDN Broadcast Traffic Control System](https://github.com/chaithanya2810/SDN-Broadcast-Traffic-Control)**
+SDN-based traffic management using Ryu, OpenFlow 1.3, Mininet, and Open vSwitch — detects broadcast storms and installs selective forwarding rules, verified via Wireshark and flow-table analysis.
 
-> 🔹 **PES-VCS (Git-like Version Control System)**
-Implemented a simplified VCS featuring **SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection logic**, with full phase-wise system design and testing.
+🔹 **[PES-VCS (Git-like Version Control System)](https://github.com/chaithanya2810/PES1UG24CS124-pes-vcs)**
+A simplified VCS with SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection — built with full phase-wise design and testing.
 
-> 🔹 **OS-Jackfruit: Custom Container Runtime**
-Built a lightweight **container runtime from scratch in Linux** using **namespaces, chroot isolation, and a custom supervisor engine**, supporting container lifecycle management, resource limits (soft/hard memory enforcement via kernel module), IPC-based CLI control, logging pipelines, and Linux CFS scheduling experiments with priority (nice) values.
+🔹 **[OS-Jackfruit: Custom Container Runtime](https://github.com/chaithanya2810/OS-Jackfruit)**
+Lightweight container runtime built from scratch in Linux using namespaces, chroot isolation, and a custom supervisor engine — supports resource limits, IPC-based CLI control, and CFS scheduling experiments.
 
-> 🔹 **Road Maintenance Prioritizer**  
-Developed using **Arrays, Heaps, and Graphs** to rank road segments based on condition scores and connectivity impact.
+🔹 **[Road Maintenance Prioritizer](https://github.com/chaithanya2810/dsa_miniproject)**
+Ranks road segments by condition score and connectivity impact using arrays, heaps, and graphs.
 
-> 🔹 **Back2You**  
-Full-stack **Lost & Found web application** built using the **MERN stack**, enabling users to report, search, and manage lost or found items with image upload and authentication features.
+🔹 **[Back2You](https://github.com/chaithanya2810/back2you)**
+Full-stack MERN Lost & Found platform with image upload and authentication.
 
 ---
-![divider](https://user-images.githubusercontent.com/74038190/212897782-965815ca-1c27-4cb4-bc95-9b2c8b1b4b42.gif)
+
 ## 💻 Tech Stack
 
-
-![C](https://img.shields.io/badge/C-Programming-blue)
-![C++](https://img.shields.io/badge/C++-Programming-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures-DSA-green)
-![Software Defined Networking](https://img.shields.io/badge/SDN-blue)
+![C](https://img.shields.io/badge/C-Programming-blue) ![C++](https://img.shields.io/badge/C++-Programming-blue) ![Python](https://img.shields.io/badge/Python-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-green) ![SDN](https://img.shields.io/badge/Software%20Defined%20Networking-blue)
 
 ---
 
+## 📊 GitHub Stats
 
+![Chaithanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaithanya2810&show_icons=true&theme=default)
