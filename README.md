@@ -2,7 +2,7 @@
 
 🎓 3rd Year Computer Science Engineering Student at PES University, Bangalore 
 
-💻 Interested in Systems Programming, Networking, and Problem Solving
+💻 Interested in Systems Programming, Networking, and Problem Solving  
 💡 Currently exploring SDN, OS internals, and building practical projects from scratch
 
 ---
