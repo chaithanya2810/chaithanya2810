@@ -12,6 +12,9 @@
 🔹 **[SDN Broadcast Traffic Control System](https://github.com/chaithanya2810/SDN-Broadcast-Traffic-Control)**
 SDN-based traffic management using Ryu, OpenFlow 1.3, Mininet, and Open vSwitch — detects broadcast storms and installs selective forwarding rules, verified via Wireshark and flow-table analysis.
 
+🔹 **[SDN Broadcast Traffic Control System](https://github.com/chaithanya2810/SDN-Broadcast-Traffic-Control)**
+SDN-based traffic management using Ryu, OpenFlow 1.3, Mininet, and Open vSwitch — detects broadcast storms and installs selective forwarding rules, verified via Wireshark and flow-table analysis.
+
 🔹 **[PES-VCS (Git-like Version Control System)](https://github.com/chaithanya2810/PES1UG24CS124-pes-vcs)**
 A simplified VCS with SHA-256 object storage, tree/index system, commits, branching, checkout, and garbage collection — built with full phase-wise design and testing.
 
